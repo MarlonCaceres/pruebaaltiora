@@ -1,0 +1,2 @@
+- Al clonar el proyecto se necesita restaurar los nugget
+- Importar la base de datos en postgresql
